@@ -7,6 +7,7 @@ body{
 }
 
 img{
+  position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -16,6 +17,7 @@ img{
 
 
 .center-box{
+  position: relative;
     
   text-align:center;
   font-family: 'Poppins', sans-serif;
@@ -25,7 +27,7 @@ img{
   padding-top:30px;
 
   max-height:200px;
-  max-width:400px;
+  max-width:450px;
   background-color:rgba(255, 255, 255, 0.87);
   border-radius:10px;
 
@@ -33,6 +35,7 @@ img{
 }
 
 .links{
+  position: relative;
   text-align:center;
   margin-left: auto;
   margin-right: auto;
